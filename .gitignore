@@ -12,6 +12,7 @@
 /captures
 .externalNativeBuild
 .cxx
+.idea
 local.properties
 /.idea/vcs.xml
 /.idea/inspectionProfiles/Project_Default.xml
